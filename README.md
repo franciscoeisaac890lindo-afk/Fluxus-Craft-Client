@@ -1,7 +1,7 @@
 <div align="center">
 
 # FluxusCraft Client
-FluxusCraft Client 1.21.5 by https://github.com/franciscoeisaac890lindo-afk
+FluxusCraft Client by https://github.com/franciscoeisaac890lindo-afk
 
 <img src="https://i.imgur.com/Lu6rDJB.png" width="90%" />
 
