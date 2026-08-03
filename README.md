@@ -1,16 +1,16 @@
 <div align="center">
 
-# oyvey-ported
-Kosher client base ported to Minecraft 1.21.5 by [@cattyngmd](https://github.com/cattyngmd)
+# FluxusCraft Client
+FluxusCraft Client 1.21.5 by https://github.com/franciscoeisaac890lindo-afk
 
 <img src="https://i.imgur.com/Lu6rDJB.png" width="90%" />
 
-# Why
-![](https://i.imgur.com/VYjIphG.png)
+# 1.0 Base?
 
-# Skid???
-Used this based client base for a **skidding** tutorial\
-\
-[![Knowledge is power](https://img.youtube.com/vi/lCWfu0gOE0c/hqdefault.jpg)](https://www.youtube.com/watch?v=lCWfu0gOE0c)
+<p align="center">
+  <img src="https://i.imgur.com/EsVqPhe.png" width="700">
+</p>
+
+1.0 Base Version 03/08/2026, Pro Version?
 
 </div>
