@@ -1,52 +1,16 @@
-# Welcome to the FluxusCraft Client Repository Github!
-FluxusCraft Client with Forge, MCP!
+<div align="center">
 
-# How to Install?
+# oyvey-ported
+Kosher client base ported to Minecraft 1.21.5 by [@cattyngmd](https://github.com/cattyngmd)
 
-Go to Releases on the right side of this repository.
+<img src="https://i.imgur.com/Lu6rDJB.png" width="90%" />
 
-Select the Version you wish to install.
+# Why
+![](https://i.imgur.com/VYjIphG.png)
 
-Download the FluxusCraft.zip file.
+# Skid???
+Used this based client base for a **skidding** tutorial\
+\
+[![Knowledge is power](https://img.youtube.com/vi/lCWfu0gOE0c/hqdefault.jpg)](https://www.youtube.com/watch?v=lCWfu0gOE0c)
 
-Extract the contents of FluxusCraft.zip to a folder on your computer.
-
-Run setup.bat to automatically install the client files into your .minecraft directory.
-
-Open your Minecraft Launcher (we recommend the official Minecraft Launcher).
-
-Navigate to the Installations tab at the top of the launcher.
-
-Create a new installation:
-
-Click New Installation.
-
-Set a name (e.g., FluxusCraft Client).
-
-In the Version drop-down menu, search for and select release FluxusCraft.
-
-Save and Play:
-
-Click Create.
-
-Return to the Play tab, select FluxusCraft Client from the profile menu, and click Play!
-
-# Requirements to use FluxusCraft Client
-**Java 8 JDK**
-
-**Forge (MDK)**
-
-
-# FluxusCraft Client 1.1:
-
-**Cheat for Bedwars**
-
-
-
-# FluxusCraft Client by:
-
-**FluxusCraft Web**
-
-**Fluxus**
-
-**Isaac**
+</div>
